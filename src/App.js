@@ -8,7 +8,7 @@ function App() {
     <Router>
       <div>
         <Wrapper>
-          <Route exact path="/employee-directory" component={Employee} />
+          <Route exact path="/employee-directory-react" component={Employee} />
         </Wrapper>
       </div>
     </Router>
