@@ -1,0 +1,11 @@
+.wrapper {
+  min-height: 100%;
+  padding-bottom: 100px;
+}
+.tableContent{
+  text-align: center;
+}
+
+.roundImage {
+  border-radius: 50%;
+}
